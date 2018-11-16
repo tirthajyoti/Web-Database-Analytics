@@ -13,6 +13,11 @@
 
 <img src="https://cdn-images-1.medium.com/max/1000/1*WvTpS5A6uGZ2m021K31dCQ.png" width="400" height="300"/>
 
+### How to scrape data from CIA website (this is harmless, I promise) about simple facts on various nations?
+**[Check out this article I wrote on Medium about this topic](https://towardsdatascience.com/data-analytics-with-python-by-web-scraping-illustration-with-cia-world-factbook-abbdaa687a84)**
+
+<img src="https://cdn-images-1.medium.com/max/1000/1*X2QkNgg-vR3NRnGDquRm9w.png" width="400" height="300"/>
+
 ### How to build a Yelp crawler which can generate interesting word cloud based on a particular city's food cuisine and taste?
 <img src="https://raw.githubusercontent.com/tirthajyoti/Web-Database-Analytics-Python/master/Images/Yelp_word_cloud_1.png" width="600" height="350"/>
 

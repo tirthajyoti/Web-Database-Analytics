@@ -1,4 +1,6 @@
-## Web-Data-Analytics-Python
+# Web-Data-Analytics-Python
+## Dr. Tirthajyoti Sarkar, Sunnyvale, CA ([You can connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
+
 * Web scraping and related analytics using Python tools
 * Application of **urllib**
 * Application of **BeautifulSoup for HTML parsing**

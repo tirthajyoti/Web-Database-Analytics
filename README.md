@@ -26,5 +26,5 @@
 ### How to crawl the [Project Gutenberg](https://www.gutenberg.org/) portal and download 100 most popular books automatically?
 <img src="https://i.pinimg.com/originals/3a/b8/d5/3ab8d5c378f62bfa723d89d2a4aee3db.jpg" width="600" height="350"/>
 
-### [How to use a [free API](https://restcountries.eu/) to download basic information about countries around the world and build a database](https://github.com/tirthajyoti/Web-Database-Analytics-Python/blob/master/Countries-JSON-API.ipynb)?
+### [How to use a free API to download basic information about countries around the world and build a database](https://github.com/tirthajyoti/Web-Database-Analytics-Python/blob/master/Countries-JSON-API.ipynb)?
 <img src="https://raw.githubusercontent.com/tirthajyoti/Web-Database-Analytics-Python/master/Images/Building%20country%20database.png" height="350"/>

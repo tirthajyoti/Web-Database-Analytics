@@ -5,7 +5,7 @@
 * [Fundamentals of **Reg**ular **ex**pressions (**Regex**)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/blob/master/Regex_Basics.ipynb)
 * Application of **urllib**
 * Application of **BeautifulSoup for HTML parsing**
-* Application of **ElementTree for XML parsing**
+* [Application of **ElementTree for XML parsing**](https://github.com/tirthajyoti/Web-Database-Analytics-Python/blob/master/XML_reading_scraping.ipynb)
 * Application of **Python json library for JSON parsing**
 * Application of **Python sqlite library**
 

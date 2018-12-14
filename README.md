@@ -1,4 +1,4 @@
-# Web-Data-Analytics-Python
+#  Web scraping and related analytics using Python tools
 ## Dr. Tirthajyoti Sarkar, Sunnyvale, CA ([You can connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
 
 * Web scraping and related analytics using Python tools

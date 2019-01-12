@@ -1,4 +1,11 @@
 #  Web scraping and related analytics using Python tools
+
+[![GitHub issues](https://img.shields.io/github/issues/tirthajyoti/Web-Database-Analytics-Python.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tirthajyoti/Web-Database-Analytics-Python.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/network)
+[![GitHub stars](https://img.shields.io/github/stars/tirthajyoti/Web-Database-Analytics-Python.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/pulls)
+[![Github commits](https://img.shields.io/github/commit-activity/y/tirthajyoti/Web-Database-Analytics-Python.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/stats/contributors)
+
 ## Dr. Tirthajyoti Sarkar, Sunnyvale, CA ([You can connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
 
 * Web scraping and related analytics using Python tools

@@ -8,6 +8,10 @@
 
 ## Dr. Tirthajyoti Sarkar ([You can connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
 
+## [My new book on Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ/)
+![book-image](https://images-na.ssl-images-amazon.com/images/I/51-AuclWzTL.jpg)
+
+## What type of Notebooks are here?
 * Web scraping and related analytics using Python tools
 * [Fundamentals of **Reg**ular **ex**pressions (**Regex**)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/blob/master/Regex_Basics.ipynb)
 * Application of **urllib**

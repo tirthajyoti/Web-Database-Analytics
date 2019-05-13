@@ -6,7 +6,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/pulls)
 [![Github commits](https://img.shields.io/github/commit-activity/y/tirthajyoti/Web-Database-Analytics-Python.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/stats/contributors)
 
-## Dr. Tirthajyoti Sarkar ([You can connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
+### Dr. Tirthajyoti Sarkar ([You can connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
 
 ## [My new book on Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ/)
 ![book-image](https://images-na.ssl-images-amazon.com/images/I/51-AuclWzTL.jpg)

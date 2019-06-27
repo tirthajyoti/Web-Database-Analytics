@@ -8,8 +8,22 @@
 
 ### Dr. Tirthajyoti Sarkar ([You can connect with me on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/))
 
+---
+
+### Requirements
+* **Python 3.5+**
+* **NumPy (`$ pip install numpy`)**
+* **Pandas (`$ pip install pandas`)**
+* **requests (`$ pip install requests`)**
+* **BeautifulSoup4 (`$ pip install beautifulsoup4`)**
+* **MatplotLib (`$ pip install matplotlib`)**
+
+---
+
 ## [My new book on Data wrangling with Python](https://www.amazon.com/Data-Wrangling-Python-Creating-actionable-ebook/dp/B07JF26NGJ/)
 ![book-image](https://images-na.ssl-images-amazon.com/images/I/51-AuclWzTL.jpg)
+
+---
 
 ## What type of Notebooks are here?
 * Web scraping and related analytics using Python tools

@@ -1,4 +1,4 @@
-#  Web scraping and related analytics using Python tools
+#  Web scraping, database and related analytics
 
 [![GitHub issues](https://img.shields.io/github/issues/tirthajyoti/Web-Database-Analytics-Python.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/issues)
 [![GitHub forks](https://img.shields.io/github/forks/tirthajyoti/Web-Database-Analytics-Python.svg)](https://github.com/tirthajyoti/Web-Database-Analytics-Python/network)
